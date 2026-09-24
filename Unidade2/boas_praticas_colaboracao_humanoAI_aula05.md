@@ -9,4 +9,5 @@
 Programar com IA de maneira responsável não significa apenas saber pedir código; 
 significa também manter uma supervisão estratégica e seletiva sobre a produção mediada pela tecnologia.
 A prática exige que a confiança seja construída através da **verificação iterativa** em vez de uma aceitação cega, redirecionando a expertise humana para a avaliação rápida de código e o gerenciamento de contexto. 
-Além disso, o desenvolvedor deve assumir o papel de orquestrador, decidindo conscientemente quando transitar do auxílio da IA para a **intervenção manual direta** para garantir a integridade e a funcionalidade do sistema
+Além disso, o desenvolvedor deve assumir o papel de orquestrador, decidindo conscientemente quando transitar do auxílio da IA para a **intervenção manual direta** para garantir a integridade e a funcionalidade do sistema. 
+O desenvolvedor deve estar ciente também de que qualquer decisão tomada é de responsabilidade do usuário e não da ferramenta, e que quaisquer consequências devem ser direcionadas ao desenvolvedor, pois foram tomadas decisões conscientes por meio de pedidos elaborados, mas que sozinhos, sem a interação humana, não poderiam ser levados adiante.
